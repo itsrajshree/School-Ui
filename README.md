@@ -1,4 +1,4 @@
-**School-UI**
+<img width="1440" alt="home" src="https://github.com/user-attachments/assets/e33011d3-02a1-4ef5-9900-0ab7fc527ccb">**School-UI**
 
 Designed a static, responsive school website using HTML, CSS, and Bootstrap. The site includes a homepage, contact page, about page, and admission page, providing a seamless user experience across devices. Features modern design elements and clear navigation to enhance user engagement and accessibility.
 
@@ -6,6 +6,7 @@ Designed a static, responsive school website using HTML, CSS, and Bootstrap. The
 
 1.HomePAge
 
+![Uploading home.png…](homepage)
 
 
 2.About Page
